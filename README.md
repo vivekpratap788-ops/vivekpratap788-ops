@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-profile-banner.png" width="100%" alt="Vivek Pratap Singh - Full Stack Developer"/>
+</p>
 <div align="center">
 
 # Hi 👋, I'm Vivek Pratap Singh
